@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: zmq
+Description:
+Requires: 
+Version: 4.2.0
+Libs: -L${libdir} -lzmq
+Cflags: -I${includedir}

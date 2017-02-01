@@ -1,0 +1,8 @@
+504872d29398e4f7fdf951f9a3cc348a  src/zmq.cpp
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+8197c8bce868593201bba82920b978d6  configure.ac
+2be6a0a7ccf8a51f1e7bf39951e127e9  Makefile.am
+101814fbb99517917d013f5babf88b6a  Makefile.am.ide
+8261c08f90d9b13d69f47077367d6554  include/zmq.h
+89a2cea40059d9e3c85943d17f9bf577  zmq.pc.in
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
